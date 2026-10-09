@@ -1,0 +1,6 @@
+{
+  "name": "Store Tech - Technology & Electronics Pakistan",
+  "description": "Pakistan's premier technology and electronics e-commerce store for smartphones, laptops, audio, smart watches, and authentic gadgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
